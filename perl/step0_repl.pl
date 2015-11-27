@@ -29,4 +29,3 @@ while (<>) {
     print rep($_);
     print "user> ";
 }
-
